@@ -86,7 +86,7 @@ main .img:hover::after {
     border-radius: 10px;
     font-size: 1.2rem;
     font-weight: 700;
-    border: 1px solid bisque;
+    border: 1px solid white;
 }
 
 main .img1:hover::after {
@@ -111,7 +111,7 @@ main .img5:hover::after {
 
 footer {
     text-align: center;
-    padding: 1.9rem;
+    padding: 1.8rem;
     background: #00f260;
     background: -webkit-linear-gradient(to right, #0575e6, #00f260);
     background: linear-gradient(to right, #0575e6, #00f260);
