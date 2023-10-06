@@ -73,7 +73,7 @@ main .img img {
 }
 
 main .img:hover {
-    cursor: zoom-in;
+    cursor: zoom-out;
 }
 
 main .img:hover::after {
